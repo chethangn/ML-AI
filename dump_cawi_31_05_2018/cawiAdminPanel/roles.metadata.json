@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"cawiAdminPanel.roles"},{"v":2,"key":{"role":1,"modules.type.resources.type":1,"modules.type.resources.route":1},"name":"role_1_modules.type.resources.type_1_modules.type.resources.route_1","ns":"cawiAdminPanel.roles","background":true}],"uuid":"7af3a80066554ebfbbf4cf0dce512dc1"}

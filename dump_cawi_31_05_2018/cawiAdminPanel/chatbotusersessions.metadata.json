@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"cawiAdminPanel.chatbotusersessions"},{"v":2,"key":{"clientId":1,"active":1},"name":"clientId_1_active_1","ns":"cawiAdminPanel.chatbotusersessions","background":true}],"uuid":"5bc63b2219fe44bc828892ef0dc76c9e"}
