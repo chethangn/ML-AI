@@ -8,4 +8,6 @@ Run this:-
 
 mongorestore dump_cawi_31_05_2018
 
+and in one more terminal run
+
 python final.py
